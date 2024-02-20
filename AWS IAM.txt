@@ -1,0 +1,4 @@
+Access key: AKIA4OYKGAVPWIIMNJVU
+Secret key: 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
+Bucket Name: testing-by-kk
+Region: ap-southeast-1
